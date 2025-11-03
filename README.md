@@ -37,3 +37,10 @@ Durante o desenvolvimento, foi possível compreender melhor:
 ## 🧩 Conclusão
 
 Este projeto serviu como uma **prática introdutória**, ajudando a fixar conceitos fundamentais sobre formulários e estilização com CSS
+
+---
+
+## ✨ Autor
+
+**Lucas Padilha**  
+Projeto criado com fins de estudo e prática de **HTML e CSS**, desenvolvido durante o **curso da Rocketseat**, com foco no **entendimento de formulários HTML**.
